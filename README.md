@@ -37,15 +37,20 @@ Fun fact: I’m a music enthusiast who loves experimenting with mixing tracks—
   <img src="https://leetcard.jacoblin.cool/Murali_Katta?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats">
 </p>
 <p align="center">Leetcode Profile</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muralikatta12&theme=dark&hide_border=true" alt="GitHub Streak Stats for muralikatta12" />
+</p>
+<p align="center">GitHub Streak Stats </p>
+
+  <p>
+  <img align="center" src="https://komarev.com/ghpvc/?username=muralikatta12&label=Profile%20views&color=0e75b6&style=flat" alt="muralikatta12" />
+</p>
+<p align="center">GitHub Views Badge </p>
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/muralikatta" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/murali-katta1/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/muralikatta" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=muralikatta12&show_icons=true&locale=en" alt="muralikatta12" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muralikatta12&show_icons=true&locale=en&layout=compact" alt="muralikatta12" /></p>
-
 
 
 
