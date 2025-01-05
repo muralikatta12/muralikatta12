@@ -41,14 +41,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muralikatta12&show_icons=true&locale=en&layout=compact" alt="muralikatta12" /></p>
 
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-- 😄 Pronouns: Techie
 
 [![Leetcode Stats]([https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer](https://leetcard.jacoblin.cool/Murali_Katta?theme=dark&font=ABeeZee&ext=heatmap))
 
