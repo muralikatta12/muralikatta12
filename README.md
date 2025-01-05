@@ -33,7 +33,11 @@ Fun fact: I’m a music enthusiast who loves experimenting with mixing tracks—
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<p><img align="center" src= "![LeetCode Stats](https://leetcard.jacoblin.cool/Murali_Katta?theme=dark&font=ABeeZee&ext=heatmap)">Leetcode Profile</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Murali_Katta?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats">
+</p>
+<p align="center">Leetcode Profile</p>
+
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/muralikatta" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/murali-katta1/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
